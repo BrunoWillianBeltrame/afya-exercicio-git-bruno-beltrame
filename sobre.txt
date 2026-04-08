@@ -1,1 +1,3 @@
 Bruno Willian Beltrame
+Idade: 19 anos
+Meta: Aprender React
